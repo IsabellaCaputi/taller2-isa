@@ -1,3 +1,4 @@
 print('Hello World! How are you?')
 print('Can you tell me what 2+2 is?')
 print('Answer: 4')
+print('Can you tell me what 2*2 is?')
